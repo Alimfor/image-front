@@ -1,0 +1,24 @@
+.admin-layout {
+    min-height: 100vh;
+    display: flex;
+}
+
+.admin-sider {
+    width: 200px;
+    background: #fff;
+    padding: 16px;
+}
+
+.admin-content {
+    margin: 16px;
+}
+
+.menu-link {
+    color: #000;
+    /* Adjust link color as needed */
+}
+
+.menu-link:hover {
+    color: #1890ff;
+    /* Adjust link color on hover as needed */
+}
